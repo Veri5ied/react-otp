@@ -1,6 +1,6 @@
 {
   "name": "@veri5ied/react-otp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple react otp package with otp field options",
   "author": "Alvin Okoro (Veri5ied)",
   "license": "MIT",
