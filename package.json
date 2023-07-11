@@ -4,6 +4,23 @@
   "description": "A simple react otp package with otp field options",
   "author": "Alvin Okoro (Veri5ied)",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "otp",
+    "otp-field",
+    "otp-input",
+    "otp-input-field",
+    "otp-input-field-react",
+    "otp-input-react",
+    "otp-react",
+    "react-otp",
+    "react-otp-field",
+    "react-otp-input",
+    "react-otp-input-field",
+    "react-otp-input-field-react",
+    "react-otp-input-react",
+    "react-otp-react"
+  ],
   "scripts": {
     "rollup-build-lib": "rollup -c"
   },
